@@ -2,6 +2,13 @@
 
 - 🌱 I’m currently learning Python and Serverless Development.
 
+### Latest Blog Posts
+
+https://adrianthegreat.com/2021/10/08/AWS-Community-Builders-Program/
+https://adrianthegreat.com/2021/06/16/The-Power-Of-Lambda-A-serverless-approach-to-invalidating-AWS-CloudFront/
+https://adrianthegreat.com/2021/04/17/Azure-DevOps-CLI/
+https://adrianthegreat.com/2021/04/03/Register-an-application-in-Azure-AD-generate-and-store-a-secret-in-Azure-Key-Vault-using-PowerShell/
+
 <!--
 **AdrianM10/adrianm10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
