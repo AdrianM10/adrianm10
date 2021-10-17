@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Reducing cloud spend for enterprise clients and providing industry recommendations on securing workloads in the cloud. 
+- 🔭 Reducing cloud spend for enterprise clients and providing security recommendations for workloads running in the cloud. 
 - 🌱 I’m currently learning Python and Serverless Development.
 
 ### Latest Blog Posts
