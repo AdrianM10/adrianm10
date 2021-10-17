@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python and Serverless Development.
+
 <!--
 **AdrianM10/adrianm10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
