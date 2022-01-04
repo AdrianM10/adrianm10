@@ -2,6 +2,7 @@
 
 - 🔭 Reducing cloud spend for enterprise customers and providing security recommendations for workloads running in the cloud. 
 - 🌱 I’m currently learning Python and Serverless Development.
+- 📝 Check out my [blog] (https://adrianthegreat.com)
 
 ### Latest Blog Posts
 
