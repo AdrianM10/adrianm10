@@ -6,6 +6,7 @@
 
 ### Latest Blog Posts
 
+- [Encrypting Attached EBS Volumes](https://adrianthegreat.com/2022/04/12/Encrypting-Attached-EBS-Volumes/)
 - [AWS CodeCommit](https://dev.to/aws-builders/aws-codecommit-lbp)
 - [AWS Community Builders Program](https://aws.amazon.com/developer/community/community-builders)
 - [The Power Of Lambda - A serverless approach to invalidating AWS CloudFront](https://adrianthegreat.com/2021/06/16/The-Power-Of-Lambda-A-serverless-approach-to-invalidating-AWS-CloudFront)
