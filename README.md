@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning Python and Serverless Development.
 - 📝 Check out my [blog](https://adrianthegreat.com)
 
-### Latest Blog Posts
+### Blog Posts
 
+- [Deploy a WordPress Amazon Lightsail instance using Terraform](https://adrianthegreat.com/2022/05/15/Deploy-a-WordPress-Amazon-Lightsail-instance-using-Terraform/)
 - [Encrypting Attached EBS Volumes](https://adrianthegreat.com/2022/04/12/Encrypting-Attached-EBS-Volumes/)
 - [AWS CodeCommit](https://dev.to/aws-builders/aws-codecommit-lbp)
 - [AWS Community Builders Program](https://aws.amazon.com/developer/community/community-builders)
