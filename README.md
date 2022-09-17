@@ -6,6 +6,7 @@
 
 ### Blog Posts
 
+- [Connect to your Linux EC2 instance using SSH + Visual Studio Code](https://adrianthegreat.com/2022/09/11/Connect-to-your-Linux-EC2-instance-using-SSH-Visual-Studio-Code/)
 - [Deploy a WordPress Amazon Lightsail instance using Terraform](https://adrianthegreat.com/2022/05/15/Deploy-a-WordPress-Amazon-Lightsail-instance-using-Terraform/)
 - [Encrypting Attached EBS Volumes](https://adrianthegreat.com/2022/04/12/Encrypting-Attached-EBS-Volumes/)
 - [AWS CodeCommit](https://dev.to/aws-builders/aws-codecommit-lbp)
