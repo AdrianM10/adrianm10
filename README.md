@@ -15,3 +15,4 @@
 - [Azure DevOps CLI](https://adrianthegreat.com/2021/04/17/Azure-DevOps-CLI)
 - [Register an application in Azure AD, generate and store a secret in Azure Key Vault using PowerShell](https://adrianthegreat.com/2021/04/03/Register-an-application-in-Azure-AD-generate-and-store-a-secret-in-Azure-Key-Vault-using-PowerShell/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianm10)](https://github.com/anuraghazra/github-readme-stats)
