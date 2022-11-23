@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Serverless Development**
 
-- 📝 I occasionally write articles on [adrianthegreat.com](adrianthegreat.com)
+- 📝 I occasionally write articles on my [personal blog](https://adrianthegreat.com)
 
 
 
