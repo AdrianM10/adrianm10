@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/adrianmudzwiti" target="blank"><img src="https://img.shields.io/twitter/follow/adrianmudzwiti?logo=twitter&style=for-the-badge" alt="adrianmudzwiti" /></a> </p>
 
 
- 💻 Languages and Technologies:
+ 💻 Languages, Tools and Technologies:
  
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
