@@ -19,9 +19,9 @@
 
 </div>
 
-
 <div align="center">
- 
+
+[![Top Langs](https://github-readme-stats-adrianm10.vercel.app/api/top-langs/?username=adrianm10)](https://github.com/adrianm10/github-readme-stats) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adrianm10&hide_border=true)](https://git.io/streak-stats)
  
 </div>
