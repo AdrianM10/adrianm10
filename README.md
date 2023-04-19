@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Adrian Mudzwiti</h1>
 <h3 align="center">Passionate about Cloud and Serverless ⚡️.</h3>
 
-- 🌱 I’m currently learning **Python and Serverless Development**
+- 🌱 I’m currently learning **Python, Serverless Development and Data Engineering**
 
 - 📝 I occasionally write articles on my [personal blog](https://adrianthegreat.com)
 
