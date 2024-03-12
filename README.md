@@ -10,6 +10,11 @@
 
 <p align="center"> <a href="https://twitter.com/adrianmudzwiti" target="blank"><img src="https://img.shields.io/twitter/follow/adrianmudzwiti?logo=twitter&style=for-the-badge" alt="adrianmudzwiti" /></a> <a href="https://www.linkedin.com/in/adrianmudzwiti" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adrianmudzwiti" /></a> <a href="https://dev.to/adrianm" target="blank"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a> </p>
 
+<p align="center">
+ 
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24794%26project%3D%26in=0">
+
+</p>
 
 <div align="center">
  
