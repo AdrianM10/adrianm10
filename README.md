@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Adrian Mudzwiti</h1>
 <h3 align="center">Backend Developer passionate about Cloud and Serverless ⚡️.</h3>
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning the **FARM Stack**
 
 - 📝 I occasionally write articles on my [personal blog](https://adrianthegreat.com)
 
