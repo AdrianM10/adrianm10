@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Adrian Mudzwiti</h1>
 <h3 align="center">Backend Software Engineer passionate about Cloud and Serverless ⚡️.</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Django**
 
 - 📝 I occasionally write articles on my [personal blog](https://adrianthegreat.com)
 
